@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![Planner Screenshot](./assets/Capture.PNG "Daily Planner")
+![Planner Screenshot](./assets/capture.PNG "Daily Planner")
 
 * [Git Hub Repository](https://github.com/malhill/Daily-Calender "Weather App Repository")
 * [Live Weather App](https://malhill.github.io/Daily-Calender/ "Live App")
