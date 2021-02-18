@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# <center>Work Day Scheduler
 
 ![Planner Screenshot](./assets/capture.PNG "Daily Planner")
 
